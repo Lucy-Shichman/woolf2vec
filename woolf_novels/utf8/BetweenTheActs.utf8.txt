@@ -41,7 +41,7 @@ Author:     Virginia Woolf
 
 
 
-THE START###CHAPTER###
+THE START
 
 ###CHAPTER###
 

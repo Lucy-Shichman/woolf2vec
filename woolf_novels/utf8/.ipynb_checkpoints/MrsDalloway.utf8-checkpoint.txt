@@ -42,6 +42,8 @@ Author:     Virginia Woolf
 
 THE START
 
+###CHAPTER###
+
 Mrs. Dalloway said she would buy the flowers herself.
 
 For Lucy had her work cut out for her.  The doors would be taken
@@ -399,8 +401,7 @@ look, and coming back and smiling apologetically with her hands
 full of sweet peas, as if those motor cars, those tyres of motor
 cars, were all HER fault.
 
-
-
+###CHAPTER###
 The violent explosion which made Mrs. Dalloway jump and Miss Pym go
 to the window and apologise came from a motor car which had drawn
 to the side of the pavement precisely opposite Mulberry's shop
@@ -924,8 +925,7 @@ now, curving up and up, straight up, like something mounting in
 ecstasy, in pure delight, out from behind poured white smoke
 looping, writing a T, an O, an F.
 
-
-
+###CHAPTER###
 "What are they looking at?" said Clarissa Dalloway to the maid who
 opened her door.
 
@@ -1619,8 +1619,7 @@ and, overwhelmed by the traffic and the sound of all the clocks
 striking, her voice crying "Remember my party to-night!" sounded
 frail and thin and very far away as Peter Walsh shut the door.
 
-
-
+###CHAPTER###
 Remember my party, remember my party, said Peter Walsh as he
 stepped down the street, speaking to himself rhythmically, in time
 with the flow of the sound, the direct downright sound of Big Ben
@@ -1902,8 +1901,7 @@ voices, the shuffle of feet, and people passing, and humming
 traffic, rising and falling traffic.  Down, down he sank into the
 plumes and feathers of sleep, sank, and was muffled over.
 
-
-
+###CHAPTER###
 The grey nurse resumed her knitting as Peter Walsh, on the hot seat
 beside her, began snoring.  In her grey dress, moving her hands
 indefatigably yet quietly, she seemed like the champion of the
@@ -1971,8 +1969,7 @@ cupboard.
 
 But to whom does the solitary traveller make reply?
 
-
-
+###CHAPTER###
 So the elderly nurse knitted over the sleeping baby in Regent's
 Park.  So Peter Walsh snored.
 
@@ -2184,8 +2181,7 @@ turned, she left him, went away.
 "Clarissa!" he cried.  "Clarissa!"  But she never came back.  It
 was over.  He went away that night.  He never saw her again.
 
-
-
+###CHAPTER###
 It was awful, he cried, awful, awful!
 
 Still, the sun was hot.  Still, one got over things.  Still, life
@@ -5630,8 +5626,7 @@ open, where the motor cars were standing, and bright women
 descending: the soul must brave itself to endure.  He opened the
 big blade of his pocket-knife.
 
-
-
+###CHAPTER###
 Lucy came running full tilt downstairs, having just nipped in to
 the drawing-room to smooth a cover, to straighten a chair, to pause
 a moment and feel whoever came in must think how clean, how bright,
@@ -6686,13 +6681,10 @@ It is Clarissa, he said.
 
 For there she was.
 
-
-
+###CHAPTER###
 THE END
 
-
-
-
+###CHAPTER###
 Project Gutenberg Australia
 
 

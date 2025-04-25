@@ -43,6 +43,8 @@ Author:     Virginia Woolf
 
 THE START
 
+###CHAPTER###
+
 It was a summer's night and they were talking, in the big room with
 the windows open to the garden, about the cesspool.  The county
 council had promised to bring water to the village, but they
@@ -211,8 +213,7 @@ her finger and the usual trappings of rather shabby but gallant old
 age, which included in her case a cross gleaming gold on her
 breast.
 
-
-
+###CHAPTER###
 The nurses after breakfast were trundling the perambulator up and
 down the terrace; and as they trundled they were talking--not
 shaping pellets of information or handing ideas from one to
@@ -299,8 +300,7 @@ fell.
 "M. Daladier," he read finding his place in the column, "has been
 successful in pegging down the franc. . . ."
 
-
-
+###CHAPTER###
 Mrs. Giles Oliver drew the comb through the thick tangle of hair
 which, after giving the matter her best attention, she had never
 had shingled or bobbed; and lifted the heavily embossed silver
@@ -368,8 +368,7 @@ adorned the weekly papers.  She looked what she was: Sir Richard's
 daughter; and niece of the two old ladies at Wimbledon who were so
 proud, being O'Neils, of their descent from the Kings of Ireland.
 
-
-
+###CHAPTER###
 A foolish, flattering lady, pausing on the threshold of what she
 once called "the heart of the house," the threshold of the library,
 had once said:  "Next to the kitchen, the library's always the
@@ -634,8 +633,7 @@ saw he didn't; what he saw she didn't--and so on, ad infinitum.
 
 "Cindy," he growled.  And the quarrel was over.
 
-
-
+###CHAPTER###
 The Barn to which Lucy had nailed her placard was a great building
 in the farmyard.  It was as old as the church, and built of the
 same stone, but it had no steeple.  It was raised on cones of grey
@@ -692,8 +690,7 @@ the parti-coloured cow, who had thrust her head in at the door
 lowered her horns, lashed her tail and ambled off.  Bond followed
 after.
 
-
-
+###CHAPTER###
 "That's the problem," said Mrs. Swithin.  While Mr. Oliver
 consulted the Encyclopædia searching under Superstition for the
 origin of the expression "Touch Wood," she and Isa discussed fish:
@@ -780,8 +777,7 @@ on her fingers.  "The Pharaohs.  Dentists.  Fish . . .  Oh yes, you
 were saying, Isa, you'd ordered fish; and you were afraid it
 wouldn't be fresh.  And I said 'That's the problem. . . .'"
 
-
-
+###CHAPTER###
 The fish had been delivered, Mitchell's boy, holding them in a
 crook of his arm, jumped off his motor bike.  There was no feeding
 the pony with lumps of sugar at the kitchen door, nor time for
@@ -887,8 +883,7 @@ some not, "I'll take 'em to the barn."  As for the lemonade, she
 assumed, without a flicker of doubt, that Jane the kitchenmaid
 would follow after.
 
-
-
+###CHAPTER###
 Candish paused in the dining-room to move a yellow rose.  Yellow,
 white, carnation red--he placed them.  He loved flowers, and
 arranging them, and placing the green sword or heart shaped leaf
@@ -925,8 +920,7 @@ singing of what was before time was; a vase stood in the heart of
 the house, alabaster, smooth, cold, holding the still, distilled
 essence of emptiness, silence.
 
-
-
+###CHAPTER###
 Across the hall a door opened.  One voice, another voice, a third
 voice came wimpling and warbling: gruff--Bart's voice; quavering--
 Lucy's voice; middle-toned--Isa's voice.  Their voices impetuously,
@@ -1076,8 +1070,7 @@ A thorough good sort she was.  She made old Bart feel young.  Out
 of the corner of his eye, as he raised his glass, he saw a flash of
 white in the garden.  Someone passing.
 
-
-
+###CHAPTER###
 The scullery maid, before the plates came out, was cooling her
 cheeks by the lily pond.
 
@@ -1156,8 +1149,7 @@ fine?  And they all looked out of the window.  Then the door
 opened.  Candish said Mr. Giles had come.  Mr. Giles would be down
 in a moment.
 
-
-
+###CHAPTER###
 Giles had come.  He had seen the great silver-plated car at the
 door with the initials R. M. twisted so as to look at a distance
 like a coronet.  Visitors, he had concluded, as he drew up behind;
@@ -1311,8 +1303,7 @@ stepped out from behind a curtain.
 nonsense?" she stumbled.  But what did he do with his hands, the
 white, the fine, the shapely?
 
-
-
+###CHAPTER###
 Giles went back to the house and brought more chairs and placed
 them in a semi-circle, so that the view might be shared, and the
 shelter of the old wall.  For by some lucky chance a wall had been
@@ -1437,8 +1428,7 @@ burrowing--"Tell me, what's it to be?"  She turned.  "Don't I
 hear?"  She listened.  She heard laughter, down among the bushes,
 where the terrace dipped to the bushes.
 
-
-
+###CHAPTER###
 Beyond the lily pool the ground sank again, and in that dip of the
 ground, bushes and brambles had mobbed themselves together.  It was
 always shady; sun-flecked in summer, dark and damp in winter.  In
@@ -1479,8 +1469,7 @@ with a cigarette in her mouth; often with a whip in her hand; and
 used rather strong language--perhaps, then, she wasn't altogether a
 lady?  At any rate, she had a passion for getting things up.
 
-
-
+###CHAPTER###
 The laughter died away.
 
 "Are they going to act?" Mrs. Manresa asked.
@@ -1580,8 +1569,7 @@ She started.  Again, sounds of laughter reached her.
 "I think I hear them," she said.  "They're getting ready.  They're
 dressing up in the bushes."
 
-
-
+###CHAPTER###
 Miss La Trobe was pacing to and fro between the leaning birch
 trees.  One hand was deep stuck in her jacket pocket; the other
 held a foolscap sheet.  She was reading what was written there.
@@ -1659,8 +1647,7 @@ swallows darting seemed, by the regularity of the trees, to make a
 pattern, dancing, like the Russians, only not to music, but to the
 unheard rhythm of their own wild hearts.
 
-
-
+###CHAPTER###
 The laughter died away.
 
 "We must possess our souls in patience," said Mrs. Manresa again.
@@ -1739,8 +1726,7 @@ dropped it.  He gave up the game; he couldn't be bothered.  With
 his head on one side, his hand dangling above the dog's head he
 slept; he snored.
 
-
-
+###CHAPTER###
 Mrs. Swithin paused for a moment in the hall among the gilt-clawed
 tables.
 
@@ -2524,8 +2510,7 @@ lamented:  Dispersed are we, as they streamed, spotting the grass
 with colour, across the lawns, and down the paths:  Dispersed are
 we.
 
-
-
+###CHAPTER###
 Mrs. Manresa took up the strain.  Dispersed are we.  "Freely,
 boldly, fearing no one" (she pushed a deck chair out of her way).
 "Youths and maidens" (she glanced behind her; but Giles had his
@@ -2789,8 +2774,7 @@ looked against vine leaf in a greenhouse.  Only at Giles he looked;
 and looked and looked.  Of whom was he thinking as he stood with
 his face turned?  Not of Isa.  Of Mrs. Manresa?
 
-
-
+###CHAPTER###
 Mrs. Manresa half-way down the Barn had gulped her cup of tea.  How
 can I rid myself, she asked, of Mrs. Parker?  If they were of her
 own class, how they bored her--her own sex!  Not the class below--
@@ -2953,8 +2937,7 @@ Dodge.
 O not now, he could have cried.  But had to follow, leaving Giles
 to welcome the approaching Manresa, who had him in thrall.
 
-
-
+###CHAPTER###
 The path was narrow.  Isa went ahead.  And she was broad; she
 fairly filled the path, swaying slightly as she walked, and
 plucking a leaf here and there from the hedge.
@@ -3036,8 +3019,7 @@ simple.  And they sat on in the greenhouse, on the plank with the
 vine over them, listening to Miss La Trobe or whoever it was,
 practising her scales.
 
-
-
+###CHAPTER###
 He could not find his son.  He had lost him in the crowd.  So old
 Bartholomew left the Barn, and went to his own room, holding his
 cheroot and murmuring:
@@ -3136,8 +3118,7 @@ He knocked the ash off his cheroot and rose.
 "So we must," said Lucy; as if he had said aloud, "It's time to
 go."
 
-
-
+###CHAPTER###
 The audience was assembling.  The music was summoning them.  Down
 the paths, across the lawns they were streaming again.  There was
 Mrs. Manresa, with Giles at her side, heading the procession.  In
@@ -3215,8 +3196,7 @@ leaving litter.  But then, who's, my husband says, to collect the
 fines? . . .  Ah there she is, Miss La Trobe, over there, behind
 that tree . . ."
 
-
-
+###CHAPTER###
 Over there behind the tree Miss La Trobe gnashed her teeth.  She
 crushed her manuscript.  The actors delayed.  Every moment the
 audience slipped the noose; split up into scraps and fragments.
@@ -3532,8 +3512,7 @@ SIR S. L.  Your lips Madam!
 
 SIR S. L.  Pah!  She stinks!
 
-
-
+###CHAPTER###
 "Ha!  Ha!  Ha!" laughed the indigenous old lady in her bathchair.
 
 "Reason, begad!  Reason!" exclaimed old Bartholomew, and looked at
@@ -3770,8 +3749,7 @@ Closet.  The sound of horses' hooves is heard in the distance."
 The sound of horses' hooves, energetically represented by Albert
 the idiot with a wooden spoon on a tray, died away.
 
-
-
+###CHAPTER###
 LADY H. H.  Half-way to Gretna Green already!  O my deceitful
 niece!  You that I rescued from the brine and stood on the
 hearthstone dripping!  O that the whale had swallowed you whole!
@@ -3918,8 +3896,7 @@ lover; and sans maid.
     Good people all, farewell,
     (dropping a curtsey, Lady H. H. withdrew)
 
-
-
+###CHAPTER###
 The scene ended.  Reason descended from her plinth.  Gathering her
 robes about her, serenely acknowledging the applause of the
 audience, she passed across the stage; while Lords and Ladies in
@@ -4086,8 +4063,7 @@ by the flower beds was Mrs. Giles escaping.
 "The tune!" Miss La Trobe commanded.  "Hurry up!  The tune!  The
 next tune!  Number Ten!"
 
-
-
+###CHAPTER###
 "Now may I pluck," Isa murmured, picking a rose, "my single
 flower.  The white or the pink?  And press it so, twixt thumb and
 finger. . . ."
@@ -4310,8 +4286,7 @@ the price of Empire; that's the white man's burden.  And, I can
 tell you, to direct the traffic orderly, at 'Yde Park Corner,
 Piccadilly Circus, is a whole-time, white man's job.
 
-
-
+###CHAPTER###
 He paused, eminent, dominant, glaring from his pedestal.  A very
 fine figure of a man he was, everyone agreed, his truncheon
 extended; his waterproof pendant.  It only wanted a shower of rain,
@@ -4351,8 +4326,7 @@ across the sheet.
 young man in peg-top trousers and side whiskers carrying a spiked
 stick appeared by the lake.
 
-
-
+###CHAPTER###
 EDGAR T. . . .  Let me help you, Miss Hardcastle!  There!
 
 (he helps Miss Eleanor Hardcastle, a young lady in crinoline and
@@ -4568,8 +4542,7 @@ The gramophone warbled Home, Sweet Home, and Budge, swaying
 slightly, descended from his box and followed the procession off
 the stage.
 
-
-
+###CHAPTER###
 There was an interval.
 
 "Oh but it was beautiful," Mrs. Lynn Jones protested.  Home she
@@ -5314,8 +5287,7 @@ The wheels scrurred on the gravel.  The cars drove off.
 The gramophone gurgled Unity--Dispersity.  It gurgled Un . . .
 dis . . .  And ceased.
 
-
-
+###CHAPTER###
 The little company who had come together at luncheon were left
 standing on the terrace.  The pilgrims had bruised a lane on the
 grass.  Also, the lawn would need a deal of clearing up.  Tomorrow
@@ -5465,8 +5437,7 @@ repeated, looking in the direction of Miss La Trobe.
 Putting one thing with another, it was unlikely that they would
 ever meet again.
 
-
-
+###CHAPTER###
 The church bells always stopped, leaving you to ask:  Won't there
 be another note?  Isa, half-way across the lawn, listened. . . .
 Ding, dong, ding . . .  There was not going to be another note.
@@ -5503,8 +5474,7 @@ strike them?
 
 And the wheels scurred on the gravel, and the car drove off.
 
-
-
+###CHAPTER###
 At last, Miss La Trobe could raise herself from her stooping
 position.  It had been prolonged to avoid attention.  The bells had
 stopped; the audience had gone; also the actors.  She could
@@ -5594,8 +5564,7 @@ midnight; there the rock; and two scarcely perceptible figures.
 Suddenly the tree was pelted with starlings.  She set down her
 glass.  She heard the first words.
 
-
-
+###CHAPTER###
 Down in the hollow, at Pointz Hall, beneath the trees, the table
 was cleared in the dining room.  Candish, with his curved brush had
 swept the crumbs; had spared the petals and finally left the family
@@ -5782,11 +5751,9 @@ rocks.
 
 Then the curtain rose.  They spoke.
 
-
-
+###CHAPTER###
 THE END
 
-
-
+###CHAPTER###
 Project Gutenberg Australia
 

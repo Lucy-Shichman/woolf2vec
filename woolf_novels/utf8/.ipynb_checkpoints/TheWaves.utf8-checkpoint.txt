@@ -41,6 +41,8 @@ Author:     Virginia Woolf
 
 THE START
 
+###CHAPTER###
+
 The sun had not yet risen.  The sea was indistinguishable from the
 sky, except that the sea was slightly creased as if a cloth had
 wrinkles in it.  Gradually as the sky whitened a dark line lay on
@@ -77,9 +79,7 @@ and made a blue finger-print of shadow under the leaf by the
 bedroom window.  The blind stirred slightly, but all within was dim
 and unsubstantial.  The birds sang their blank melody outside.
 
-
-
-
+###CHAPTER###
 'I see a ring,' said Bernard, 'hanging above me.  It quivers and
 hangs in a loop of light.'
 
@@ -619,9 +619,7 @@ sweep me between their great shoulders; I am turned; I am tumbled;
 I am stretched, among these long lights, these long waves, these
 endless paths, with people pursuing, pursuing.'
 
-
-
-
+###CHAPTER###
 The sun rose higher.  Blue waves, green waves swept a quick fan
 over the beach, circling the spike of sea-holly and leaving shallow
 pools of light here and there on the sand.  A faint black rim was
@@ -648,9 +646,7 @@ flowed and the steel of the knife were liquid.  Meanwhile the
 concussion of the waves breaking fell with muffled thuds, like logs
 falling, on the shore.
 
-
-
-
+###CHAPTER###
 'Now,' said Bernard, 'the time has come.  The day has come.  The
 cab is at the door.  My huge box bends George's bandy-legs even
 wider.  The horrible ceremony is over, the tips, and the good-byes
@@ -726,8 +722,7 @@ rather heavily from side to side, hurl themselves also through the
 swing-doors.  This is our first night at school, apart from our
 sisters.'
 
-
-
+###CHAPTER###
 'This is my first night at school,' said Susan, 'away from my
 father, away from my home.  My eyes swell; my eyes prick with
 tears.  I hate the smell of pine and linoleum.  I hate the wind-
@@ -918,8 +913,7 @@ Percival destroys it, as he blunders off, crushing the grasses,
 with the small fry trotting subservient after him.  Yet it is
 Percival I need; for it is Percival who inspires poetry.'
 
-
-
+###CHAPTER###
 'For how many months,' said Susan, 'for how many years, have I run
 up these stairs, in the dismal days of winter, in the chilly days
 of spring?  Now it is midsummer.  We go upstairs to change into
@@ -1081,8 +1075,7 @@ that slap my ribs rock more gently, and my heart rides at anchor,
 like a sailing-boat whose sails slide slowly down on to the white
 deck.  The game is over.  We must go to tea now.'
 
-
-
+###CHAPTER###
 'The boasting boys,' said Louis, 'have gone now in a vast team to
 play cricket.  They have driven off in their great brake, singing
 in chorus.  All their heads turn simultaneously at the corner by
@@ -1245,8 +1238,7 @@ amalgamation between the two discrepancies so hideously apparent to
 me.  Out of my suffering I will do it.  I will knock.  I will
 enter.'
 
-
-
+###CHAPTER###
 'I have torn off the whole of May and June,' said Susan, 'and
 twenty days of July.  I have torn them off and screwed them up so
 that they no longer exist, save as a weight in my side.  They have
@@ -1361,8 +1353,7 @@ enrich; I will return to the world this beauty.  I will bind my
 flowers in one garland and advancing with my hand outstretched will
 present them--Oh! to whom?'
 
-
-
+###CHAPTER###
 'Now we have received,' said Louis, 'for this is the last day of
 the last term--Neville's and Bernard's and my last day--whatever
 our masters have had to give us.  The introduction has been made;
@@ -1451,8 +1442,7 @@ will shade my eyes with a book to hide one tear; I will shade my
 eyes to observe; to peep at one face.  It is the first day of the
 summer holidays.'
 
-
-
+###CHAPTER###
 'It is the first day of the summer holidays,' said Susan.  'But the
 day is still rolled up.  I will not examine it until I step out on
 to the platform in the evening.  I will not let myself even smell
@@ -1561,8 +1551,7 @@ over our transient passage.  This I say is the present moment; this
 is the first day of the summer holidays.  This is part of the
 emerging monster to whom we are attached.'
 
-
-
+###CHAPTER###
 'Now we are off,' said Louis.  'Now I hang suspended without
 attachments.  We are nowhere.  We are passing through England in a
 train.  England slips by the window, always changing from hill to
@@ -1732,9 +1721,7 @@ asunder.  My sense of self almost perishes; my contempt.  I become
 drawn in, tossed down, thrown sky-high.  I step out on to the
 platform, grasping tightly all that I possess--one bag.'
 
-
-
-
+###CHAPTER###
 The sun rose.  Bars of yellow and green fell on the shore, gilding
 the ribs of the eaten-out boat and making the sea-holly and its
 mailed leaves gleam blue as steel.  Light almost pierced the thin
@@ -1809,9 +1796,7 @@ warriors, like turbaned men with poisoned assegais who, whirling
 their arms on high, advance upon the feeding flocks, the white
 sheep.
 
-
-
-
+###CHAPTER###
 'The complexity of things becomes more close,' said Bernard, 'here
 at college, where the stir and pressure of life are so extreme,
 where the excitement of mere living becomes daily more urgent.
@@ -2346,8 +2331,7 @@ tip, a shilling, under the edge of my plate, so that she may not
 find it till I am gone, and her scorn, as she picks it up with
 laughter, may not strike on me till I am past the swing-doors.'
 
-
-
+###CHAPTER###
 'Now the wind lifts the blind,' said Susan, 'jars, bowls, matting
 and the shabby arm-chair with the hole in it are now become
 distinct.  The usual faded ribbons sprinkle the wallpaper.  The
@@ -2619,9 +2603,7 @@ rough sea.  Like a ribbon of weed I am flung far every time the
 door opens.  I am the foam that sweeps and fills the uttermost rims
 of the rocks with whiteness; I am also a girl, here in this room.'
 
-
-
-
+###CHAPTER###
 The sun, risen, no longer couched on a green mattress darting a
 fitful glance through watery jewels, bared its face and looked
 straight over the waves.  They fell with a regular thud.  They fell
@@ -2686,9 +2668,7 @@ Here was the boss of a chair; here the bulk of a cupboard.  And as
 the light increased, flocks of shadow were driven before it and
 conglomerated and hung in many-pleated folds in the background.
 
-
-
-
+###CHAPTER###
 'How fair, how strange,' said Bernard, 'glittering, many-pointed
 and many-domed London lies before me under mist.  Guarded by
 gasometers, by factory chimneys, she lies sleeping as we approach.
@@ -3634,9 +3614,7 @@ fan the fire so that it blazes for ever?  How signal to all time to
 come that we, who stand in the street, in the lamplight, loved
 Percival?  Now Percival is gone.'
 
-
-
-
+###CHAPTER###
 The sun had risen to its full height.  It was no longer half seen
 and guessed at, from hints and gleams, as if a girl couched on her
 green-sea mattress tired her brows with water-globed jewels that
@@ -3712,10 +3690,7 @@ backs which rippled as the backs of great horses ripple with
 muscles as they move.  The waves fell; withdrew and fell again,
 like the thud of a great beast stamping.
 
-
-
-
-
+###CHAPTER###
 'He is dead,' said Neville.  'He fell.  His horse tripped.  He was
 thrown.  The sails of the world have swung round and caught me on
 the head.  All is over.  The lights of the world have gone out.
@@ -4081,9 +4056,7 @@ and the pillars stand entire.  Into the wave that dashes upon the
 shore, into the wave that flings its white foam to the uttermost
 corners of the earth, I throw my violets, my offering to Percival.'
 
-
-
-
+###CHAPTER###
 The sun no longer stood in the middle of the sky.  Its light
 slanted, falling obliquely.  Here it caught on the edge of a cloud
 and burnt it into a slice of light, a blazing island on which no
@@ -4122,9 +4095,7 @@ spray, leaping high, spattered the walls of a cave that had been
 dry before, and left pools inland, where some fish stranded lashed
 its tail as the wave drew back.
 
-
-
-
+###CHAPTER###
 'I have signed my name,' said Louis, 'already twenty times.  I, and
 again I, and again I.  Clear, firm, unequivocal, there it stands,
 my name.  Clear-cut and unequivocal am I too.  Yet a vast
@@ -4506,9 +4477,7 @@ of the human heart--seek another, find another, you.  Meanwhile,
 let us abolish the ticking of time's clock with one blow.  Come
 closer.'
 
-
-
-
+###CHAPTER###
 The sun had now sunk lower in the sky.  The islands of cloud had
 gained in density and drew themselves across the sun so that the
 rocks went suddenly black, and the trembling sea holly lost its
@@ -4559,9 +4528,7 @@ All for a moment wavered and bent in uncertainty and ambiguity, as
 if a great moth sailing through the room had shadowed the immense
 solidity of chairs and tables with floating wings.
 
-
-
-
+###CHAPTER###
 'And time,' said Bernard, 'lets fall its drop.  The drop that has
 formed on the roof of the soul falls.  On the roof of my mind time,
 forming, lets fall its drop.  Last week, as I stood shaving, the
@@ -5176,9 +5143,7 @@ cottage roof.  Those bladder shapes painted red and yellow are
 faces.  Putting my foot to the ground I step gingerly and press my
 hand against the hard door of a Spanish inn.'
 
-
-
-
+###CHAPTER###
 The sun was sinking.  The hard stone of the day was cracked and
 light poured through its splinters.  Red and gold shot through the
 waves, in rapid running arrows, feathered with darkness.
@@ -5236,9 +5201,7 @@ was dark as if mussels had been steeped in it.  The foam had turned
 livid and left here and there a white gleam of pearl on the misty
 sand.
 
-
-
-
+###CHAPTER###
 'Hampton Court,' said Bernard.  'Hampton Court.  This is our
 meeting-place.  Behold the red chimneys, the square battlements of
 Hampton Court.  The tone of my voice as I say "Hampton Court"
@@ -5920,9 +5883,7 @@ further side, being one, being indivisible.  But what is odd is
 that I still clasp the return half of my ticket to Waterloo firmly
 between the fingers of my right hand, even now, even sleeping.'
 
-
-
-
+###CHAPTER###
 Now the sun had sunk.  Sky and sea were indistinguishable.  The
 waves breaking spread their white fans far out over the shore, sent
 white shadows into the recesses of sonorous caves and then rolled
@@ -5966,9 +5927,7 @@ when the valleys are full of running streams and yellow vine
 leaves, and girls, sitting on verandahs, look up at the snow,
 shading their faces with their fans.  Them, too, darkness covered.
 
-
-
-
+###CHAPTER###
 'Now to sum up,' said Bernard.  'Now to explain to you the meaning
 of my life.  Since we do not know each other (though I met you
 once, I think, on board a ship going to Africa), we can talk
@@ -7478,18 +7437,13 @@ Percival's, when he galloped in India.  I strike spurs into my
 horse.  Against you I will fling myself, unvanquished and
 unyielding, O Death!'
 
-
-
-
+###CHAPTER###
 The waves broke on the shore.
 
-
-
-
+###CHAPTER###
 THE END
 
-
-
+###CHAPTER###
 Project Gutenberg Australia
 
 
